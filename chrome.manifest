@@ -1,0 +1,2 @@
+content oldColorSwatch content/
+override chrome://komodo/content/hyperlinks/csscolorpicker.js chrome://oldColorSwatch/content/csscolorpicker.js
